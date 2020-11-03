@@ -1,2 +1,5 @@
 # win10-virtual-desktop-enhancer
-modified virtual desktop enhancer with settings
+
+This is a modified version of unmaintained project!!! 
+original work is https://github.com/sdias/win-10-virtual-desktop-enhancer
+
